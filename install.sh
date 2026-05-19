@@ -2,7 +2,7 @@
 
 set -e
 
-GIF_URL="https://upload.wikimedia.org/wikipedia/commons/b/b1/Loading_icon.gif"
+GIF_URL="https://github.com/Nexus-Titan/Boot-Logo-Gif/releases/download/v1/Tiwut-Test.gif"
 THEME_NAME="custom-gif-theme"
 THEME_DIR="/usr/share/plymouth/themes/$THEME_NAME"
 
